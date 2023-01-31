@@ -20,7 +20,7 @@ My skills in the tech world include:
 - [LinkedIn](https://www.linkedin.com/in/george-junior-adomako-68a18618b)
 - [Instagram](https://instagram.com/amanofvalor)
 - [Github](https://github.com/flashbat51)
-- [Telegram](https://telegram.com/@ojumet)
+- [Telegram](https://telegram.org/@ojumet)
 - [YouTube](https://youtube.com/@georgejunioradomako4389)
 
 You could as well search for me on **slack** if you are currently running the ALX SE program
