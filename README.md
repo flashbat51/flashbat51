@@ -1,5 +1,5 @@
 # Welcome to my GitHub Profile
-I am **George Junior Adomako** [@flashbat51](https://github.com/flashbat51). I'm a **Pastor**, an **Aneasthtist** and an upcoming **Software Engineer** with a special interest in <u>DevOps, front-end and back-end development</u>. I’m interested in solving problems and changing the world by the instrumentality of Software Engineering and other unique skills that I've gotten. I’m currently being trained to become a full stack software engineer in the renowned **ALX SE program** and I’m willing and ready to work with any serious team of software engineers, who consider me skillful enough at any point in time, especially for internship.
+I am **George Junior Adomako** [@flashbat51](https://github.com/flashbat51). I'm a **Pastor**, an **Aneasthetist** and an upcoming **Software Engineer** with a special interest in <u>DevOps, front-end and back-end development</u>. I’m interested in solving problems and changing the world by the instrumentality of Software Engineering and other unique skills that I've gotten. I’m currently being trained to become a full stack software engineer in the renowned **ALX SE program** and I’m willing and ready to work with any serious team of software engineers, who consider me skillful enough at any point in time, especially for internship.
 
 My skills in the tech world include:
 - HTML
